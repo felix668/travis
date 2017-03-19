@@ -1,0 +1,4 @@
+http://blog.csdn.net/laozitianxia/article/details/50682100
+1.git init 
+2、git add mk
+3、git commit -m 'mk'
